@@ -1,0 +1,15 @@
+{
+    "101":{
+        "id":101,
+        "name":"Flight Control unit",
+        "type": "FCU",
+        "status":"operational"
+    },
+
+     "102":{
+            "id":102,
+            "name":"Flight Control system",
+            "type": "FCU",
+            "status":"operational"
+        }
+}
